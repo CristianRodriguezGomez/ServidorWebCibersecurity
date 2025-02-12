@@ -29,23 +29,26 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
 2. **Crea un entorno virtual e instala las dependencias:**
-   -python -m venv venv
-   -source venv/bin/activate  # En Windows usa: venv\Scripts\activate
-   -pip install -r requirements.txt
-3. **Configura las variables de entorno copiando el archivo de ejemplo:**
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # En Windows usa: venv\Scripts\activate
+   pip install -r requirements.txt
+4. **Configura las variables de entorno copiando el archivo de ejemplo:**
+5. ```sh
    cp .env.example .env
 
    Luego, edita el archivo **.env** y define tu **FLASK_SECRET_KEY**
 
 
-##🚀 Uso
-###🔹 Ejecutar la aplicación
+## 🚀 Uso
+### 🔹 Ejecutar la aplicación
 Para iniciar el servidor Flask, usa el siguiente comando:
 python app.py
 Luego, accede a la aplicación en:
+
 📍 http://localhost:5000
 
-###🔹 Inspeccionar tráfico con ngrok
+### 🔹 Inspeccionar tráfico con ngrok
 Para exponer tu servidor Flask a internet con ngrok, usa:
 
 ngrok http 5000
