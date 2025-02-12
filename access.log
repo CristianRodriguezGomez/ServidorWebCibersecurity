@@ -1,0 +1,82 @@
+2025-01-29 22:24:44 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-01-29 22:24:44 - [33mPress CTRL+C to quit[0m
+2025-01-29 22:25:16 - Acceso desde 127.0.0.1 | Ruta: / | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:16
+2025-01-29 22:25:16 - 127.0.0.1 - - [29/Jan/2025 22:25:16] "GET / HTTP/1.1" 200 -
+2025-01-29 22:25:16 - Acceso desde 127.0.0.1 | Ruta: /static/style.css | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:16
+2025-01-29 22:25:16 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/2.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:16
+2025-01-29 22:25:16 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/1.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:16
+2025-01-29 22:25:16 - 127.0.0.1 - - [29/Jan/2025 22:25:16] "GET /static/imagenes/2.jpg HTTP/1.1" 200 -
+2025-01-29 22:25:16 - 127.0.0.1 - - [29/Jan/2025 22:25:16] "GET /static/style.css HTTP/1.1" 200 -
+2025-01-29 22:25:16 - 127.0.0.1 - - [29/Jan/2025 22:25:16] "GET /static/imagenes/1.jpg HTTP/1.1" 200 -
+2025-01-29 22:25:16 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/3.jpeg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:16
+2025-01-29 22:25:16 - 127.0.0.1 - - [29/Jan/2025 22:25:16] "GET /static/imagenes/3.jpeg HTTP/1.1" 200 -
+2025-01-29 22:25:17 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:25:17
+2025-01-29 22:25:17 - 127.0.0.1 - - [29/Jan/2025 22:25:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:18 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:18
+2025-01-29 22:30:18 - 127.0.0.1 - - [29/Jan/2025 22:30:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:19 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:19
+2025-01-29 22:30:19 - 127.0.0.1 - - [29/Jan/2025 22:30:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:20 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:20
+2025-01-29 22:30:20 - 127.0.0.1 - - [29/Jan/2025 22:30:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:21 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:21
+2025-01-29 22:30:21 - 127.0.0.1 - - [29/Jan/2025 22:30:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:21 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:21
+2025-01-29 22:30:21 - 127.0.0.1 - - [29/Jan/2025 22:30:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:22 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:22
+2025-01-29 22:30:22 - 127.0.0.1 - - [29/Jan/2025 22:30:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:25 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:25
+2025-01-29 22:30:25 - 127.0.0.1 - - [29/Jan/2025 22:30:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:30:33 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:30:33
+2025-01-29 22:30:33 - 127.0.0.1 - - [29/Jan/2025 22:30:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 22:33:58 - Acceso desde 127.0.0.1 | Ruta: /admin | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:33:58
+2025-01-29 22:33:58 - 127.0.0.1 - - [29/Jan/2025 22:33:58] "[33mGET /admin HTTP/1.1[0m" 404 -
+2025-01-29 22:34:36 - Acceso desde 127.0.0.1 | Ruta: / | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:34:36
+2025-01-29 22:34:36 - 127.0.0.1 - - [29/Jan/2025 22:34:36] "GET / HTTP/1.1" 200 -
+2025-01-29 22:34:38 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/1.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:34:38
+2025-01-29 22:34:38 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/2.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:34:38
+2025-01-29 22:34:38 - 127.0.0.1 - - [29/Jan/2025 22:34:38] "[36mGET /static/imagenes/2.jpg HTTP/1.1[0m" 304 -
+2025-01-29 22:34:38 - 127.0.0.1 - - [29/Jan/2025 22:34:38] "[36mGET /static/imagenes/1.jpg HTTP/1.1[0m" 304 -
+2025-01-29 22:34:38 - Acceso desde 127.0.0.1 | Ruta: /static/style.css | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:34:38
+2025-01-29 22:34:38 - 127.0.0.1 - - [29/Jan/2025 22:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-29 22:34:38 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/3.jpeg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-29 22:34:38
+2025-01-29 22:34:38 - 127.0.0.1 - - [29/Jan/2025 22:34:38] "[36mGET /static/imagenes/3.jpeg HTTP/1.1[0m" 304 -
+2025-01-30 11:29:53 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.185:5000
+2025-01-30 11:29:53 - [33mPress CTRL+C to quit[0m
+2025-01-30 11:30:51 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.185:5000
+2025-01-30 11:30:51 - [33mPress CTRL+C to quit[0m
+2025-01-30 11:31:16 - Acceso desde 127.0.0.1 | Ruta: / | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:16
+2025-01-30 11:31:16 - 127.0.0.1 - - [30/Jan/2025 11:31:16] "GET / HTTP/1.1" 200 -
+2025-01-30 11:31:17 - Acceso desde 127.0.0.1 | Ruta: /static/style.css | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:17
+2025-01-30 11:31:17 - 127.0.0.1 - - [30/Jan/2025 11:31:17] "GET /static/style.css HTTP/1.1" 200 -
+2025-01-30 11:31:17 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/2.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:17
+2025-01-30 11:31:17 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/3.jpeg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:17
+2025-01-30 11:31:17 - Acceso desde 127.0.0.1 | Ruta: /static/imagenes/1.jpg | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:17
+2025-01-30 11:31:17 - 127.0.0.1 - - [30/Jan/2025 11:31:17] "GET /static/imagenes/2.jpg HTTP/1.1" 200 -
+2025-01-30 11:31:17 - 127.0.0.1 - - [30/Jan/2025 11:31:17] "GET /static/imagenes/1.jpg HTTP/1.1" 200 -
+2025-01-30 11:31:17 - 127.0.0.1 - - [30/Jan/2025 11:31:17] "GET /static/imagenes/3.jpeg HTTP/1.1" 200 -
+2025-01-30 11:31:18 - Acceso desde 127.0.0.1 | Ruta: /favicon.ico | Método: GET | Agente: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 | Fecha: 2025-01-30 11:31:18
+2025-01-30 11:31:18 - 127.0.0.1 - - [30/Jan/2025 11:31:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 00:17:43 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.119:5000
+2025-02-12 00:17:43 - [33mPress CTRL+C to quit[0m

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Ciberseguridad</title>
+
+    <!-- Mejorar accesibilidad y SEO -->
+    <meta name="description" content="Explora el mundo de la ciberseguridad, redes y protección de datos.">
+    <meta name="author" content="Cristian y David">
+
+    <!-- Fuentes y estilos -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>¡Explora el Mundo de la Ciberseguridad!</h1>
+            <p>Protege tus datos y aprende cómo mantener la seguridad en el mundo digital.</p>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            <h2>¿Qué es la Ciberseguridad?</h2>
+            <p>La ciberseguridad consiste en proteger sistemas, redes y datos contra amenazas cibernéticas, como el robo de información, virus y ataques de hackers.</p>
+            <img src="{{ url_for('static', filename='imagenes/1.jpg') }}" alt="Ciberseguridad" class="responsive-img">
+        </section>
+
+        <section>
+            <h2>Importancia de las Redes</h2>
+            <p>Las redes conectan dispositivos y sistemas, pero también son un objetivo frecuente de ataques. Protegerlas es esencial para garantizar la seguridad de la información.</p>
+            <img src="{{ url_for('static', filename='imagenes/2.jpg') }}" alt="Redes de comunicación" class="responsive-img">
+        </section>
+
+        <section>
+            <h2>¿Cómo Prevenir Ataques?</h2>
+            <p>Utiliza herramientas como firewalls, cifrado de datos y autenticación de múltiples factores. ¡La seguridad digital comienza con pequeñas acciones!</p>
+            <img src="{{ url_for('static', filename='imagenes/3.jpeg') }}" alt="Seguridad informática" class="responsive-img">
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 | Página realizada por Cristian y David</p>
+        </div>
+    </footer>
+</body>
+
+</html>
