@@ -33,8 +33,8 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
    python -m venv venv
    source venv/bin/activate  # En Windows usa: venv\Scripts\activate
    pip install -r requirements.txt
-4. **Configura las variables de entorno copiando el archivo de ejemplo:**
-5. ```sh
+3. **Configura las variables de entorno copiando el archivo de ejemplo:**
+   ```sh
    cp .env.example .env
 
    Luego, edita el archivo **.env** y define tu **FLASK_SECRET_KEY**
@@ -55,10 +55,10 @@ ngrok http 5000
 Después, accede al dashboard de monitoreo en:
 📍 http://localhost:4040/inspect/http
 
-##🔐 Seguridad Implementada
+## 🔐 Seguridad Implementada
 🔒 Protección CSRF: Previene ataques de falsificación de solicitudes.
 🔒 Encabezados HTTP seguros: Evita ataques como clickjacking y XSS.
 🔒 Limitación de accesos: Previene ataques de fuerza bruta restringiendo el número de solicitudes.
 
-##📝 Autor
+## 📝 Autor
 👨‍💻 Nombre: Cris
